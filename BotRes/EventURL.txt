@@ -1,0 +1,2 @@
+https://tradedesk.ticketmaster.com/marketplace/event/5845421?all_events=1&onlyrequest=1&onlyrequest=1&section=205&row=R&seats=4-5&all_inv=1&refreshInterval=300&autocheckout=1
+https://tradedesk.ticketmaster.com/marketplace/event/7397661?all_events=1&onlyrequest=1&section=GREEN1&row=81&seats=43-43&all_inv=1&refreshInterval=300&autocheckout=1&priceFrom=134.90&priceTo=149.10

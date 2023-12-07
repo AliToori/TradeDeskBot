@@ -1,0 +1,6 @@
+selenium
+pandas
+pyfiglet
+colorlog
+ntplib
+requests

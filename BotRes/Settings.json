@@ -1,0 +1,14 @@
+{
+  "Settings": {
+    "Email": "sdfsd@gmail.com",
+    "Password": "b3dsq5zm",
+    "Email2": "dsdfs@gmail.com",
+    "Password2": ",18vIqTHO`cCGp!L",
+    "PubNub_PublishKey": "dfsdf9e839b4",
+    "PubNub_SubscribeKey": "dfsdfs6340",
+    "PubNub_UserId": "Channel-TradeDeskBot",
+    "PubNubKeyChannelInstance_2": "Channel-Machine2",
+    "WaitForTicket": 5,
+    "NumberOfInstancesToRun": 1
+  }
+}
